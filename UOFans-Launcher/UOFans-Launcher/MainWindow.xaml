@@ -5,8 +5,18 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:UOFans_Launcher"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
+        Title="UO Fans Launcher" Height="350" Width="525">
     <Grid>
-        
+        <Grid HorizontalAlignment="Left" Height="299" Margin="10,10,0,0" VerticalAlignment="Top" Width="497">
+            <Button x:Name="btn_play" Content="Play" HorizontalAlignment="Left" Height="23" Margin="0,78,0,0" VerticalAlignment="Top" Width="120"/>
+            <Button x:Name="btn_settings" Content="Settings" HorizontalAlignment="Left" Height="23" Margin="0,101,0,0" VerticalAlignment="Top" Width="120"/>
+            <Button x:Name="btn_forums" Content="Forums" HorizontalAlignment="Left" Height="23" Margin="0,124,0,0" VerticalAlignment="Top" Width="120"/>
+            <Button x:Name="btn_donate" Content="Donate" HorizontalAlignment="Left" Height="23" Margin="0,147,0,0" VerticalAlignment="Top" Width="120"/>
+            <Button x:Name="btn_help" Content="Help" HorizontalAlignment="Left" Height="23" Margin="0,253,0,0" VerticalAlignment="Top" Width="120"/>
+            <Button x:Name="btn_exit" Content="Exit" HorizontalAlignment="Left" Height="23" Margin="0,276,0,0" VerticalAlignment="Top" Width="120"/>
+            <Label x:Name="lbl_logo" Content="LOGO HERE" HorizontalAlignment="Left" Height="73" VerticalAlignment="Top" Width="120" Background="#FFEC0D0D"/>
+            <StackPanel HorizontalAlignment="Left" Height="279" Margin="137,10,0,0" VerticalAlignment="Top" Width="350"/>
+        </Grid>
+
     </Grid>
 </Window>
