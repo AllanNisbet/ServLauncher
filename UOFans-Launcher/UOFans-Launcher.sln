@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UOFans-Launcher", "UOFans-Launcher\UOFans-Launcher.csproj", "{8B77686C-28F5-4D7D-B7B3-20D51C38858D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UOFans-Launcher", "UOFans-Launcher\UOFans-Launcher.csproj", "{239C42F0-DA5D-4683-86A5-B26D86499068}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8B77686C-28F5-4D7D-B7B3-20D51C38858D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8B77686C-28F5-4D7D-B7B3-20D51C38858D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8B77686C-28F5-4D7D-B7B3-20D51C38858D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8B77686C-28F5-4D7D-B7B3-20D51C38858D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{239C42F0-DA5D-4683-86A5-B26D86499068}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{239C42F0-DA5D-4683-86A5-B26D86499068}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{239C42F0-DA5D-4683-86A5-B26D86499068}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{239C42F0-DA5D-4683-86A5-B26D86499068}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
