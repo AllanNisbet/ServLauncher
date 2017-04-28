@@ -10,9 +10,9 @@ using System.Windows;
 [assembly: AssemblyTitle("UOFans-Launcher")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("SOS")]
+[assembly: AssemblyCompany("Storm")]
 [assembly: AssemblyProduct("UOFans-Launcher")]
-[assembly: AssemblyCopyright("Copyright © SOS 2017")]
+[assembly: AssemblyCopyright("Copyright © Storm 2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
