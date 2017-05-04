@@ -68,7 +68,12 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Classes\ExecutableHandling\Ultima.cs" />
     <Compile Include="Controls\ApexGrid.cs" />
+    <Compile Include="Controls\TabItemExit.cs" />
+    <Compile Include="Controls\TabItemInstallUO.cs" />
+    <Compile Include="Controls\TabItemLink.cs" />
+    <Compile Include="Controls\TabItemPlay.cs" />
     <Compile Include="Main.xaml.cs">
       <DependentUpon>Main.xaml</DependentUpon>
     </Compile>
